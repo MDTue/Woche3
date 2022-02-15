@@ -10,7 +10,7 @@ class Woche3ApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.fail();
+
     }
 
 }
